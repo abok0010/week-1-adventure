@@ -1,4 +1,5 @@
  # This story is about a group of people working together on a project. What to do next?
 
 
-# This story is about the git and vscode
+ # They decided to use VSC to collaborate the code that they need to work on. 
+
