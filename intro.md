@@ -2,3 +2,6 @@
 
 
  # They decided to use VSC to collaborate the code that they need to work on. They used the terminal.
+
+ They worked on the project for over a month.
+[abok0010](abok0010.md)
