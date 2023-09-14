@@ -5,3 +5,5 @@
 
 
 # This story about to work and learn more on JavaScript.
+
+## The team reviewed the codes and decided to merge them. 
