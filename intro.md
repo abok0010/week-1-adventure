@@ -2,3 +2,6 @@
 
 
  # They decided to use VSC to collaborate the code that they need to work on. They used the terminal.
+
+
+# This story about to work and learn more on JavaScript.
